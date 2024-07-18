@@ -31,4 +31,6 @@ You can check the Open Search running at:
 }
 ```
 
-And access the Dashboard at [http://localhost:5601/](http://localhost:5601/)
+And access the Dashboard at [http://localhost:5601/](http://localhost:5601):
+
+![dashboard](asset/dashboard.png)
